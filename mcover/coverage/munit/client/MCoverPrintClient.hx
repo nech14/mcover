@@ -54,7 +54,7 @@ class MCoverPrintClient implements IAdvancedTestResultClient
 	/**
 	 * Default id of this client.
 	 */
-	@:extern public static inline var DEFAULT_ID:String = "MCoverPrintClient";
+	extern public static inline var DEFAULT_ID:String = "MCoverPrintClient";
 
 	/**
 	 * The unique identifier for the client.
